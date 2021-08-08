@@ -59,6 +59,6 @@ class AuthTest {
         $("[data-test-id=login] input").setValue(testUser.getLogin());
         $("[data-test-id=password] input").setValue(testUser.getPassword());
         $(".button__content").click();
-        $("[data-test-id=error-notification]").shouldBe(visible).shouldHave(text("Неверно указан логин или пароль"));
+        $("[data-test-id=error-notification]").shouldBe(visible).shouldHave(text("Неверн указан логин или пароль"));
     }
 }
