@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/crsum6ha067mwdr8?svg=true)](https://ci.appveyor.com/project/Alexandra-Matyukhina/patternsibank)
